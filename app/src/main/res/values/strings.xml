@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Extrair APK</string>
+
+    <string name="search">Buscar</string>
+    <string name="search_hint">Buscar por nome ou pacote</string>
+    <string name="sort">Ordenar</string>
+    <string name="sort_name">Nome</string>
+    <string name="sort_size">Tamanho</string>
+    <string name="sort_recent">Atualizado recentemente</string>
+
+    <string name="filter_all">Todos</string>
+    <string name="filter_user">Usuário</string>
+    <string name="filter_system">Sistema</string>
+
+    <string name="cancel">Cancelar</string>
+    <string name="selected_count">%1$d selecionado(s)</string>
+    <string name="export_selected">Exportar selecionados</string>
+    <string name="split_apk_label">Split APK</string>
+
+    <string name="detail_version">Versão</string>
+    <string name="detail_version_code">Código da versão</string>
+    <string name="detail_size">Tamanho</string>
+    <string name="detail_installed_at">Instalado em</string>
+    <string name="detail_updated_at">Atualizado em</string>
+    <string name="detail_type">Tipo</string>
+    <string name="detail_splits">Partes (splits)</string>
+    <string name="type_user">Usuário</string>
+    <string name="type_system">Sistema</string>
+    <string name="splits_count">%1$d arquivos</string>
+
+    <string name="extracting">Extraindo APK…</string>
+    <string name="extract_ready">APK extraído com sucesso.</string>
+    <string name="extract_failed">Falha ao extrair o APK.</string>
+
+    <string name="action_extract">Extrair APK</string>
+    <string name="action_share">Compartilhar</string>
+    <string name="action_save">Salvar</string>
+    <string name="action_install">Instalar</string>
+    <string name="action_retry">Tentar novamente</string>
+
+    <string name="saved_to_downloads">Salvo em Downloads/ExtrairAPK: %1$s</string>
+    <string name="save_failed">Não foi possível salvar o arquivo.</string>
+    <string name="batch_export_done">%1$d de %2$d apps exportados para Downloads</string>
+
+    <string name="install_success">Instalação concluída.</string>
+    <string name="install_failed">Não foi possível instalar o app.</string>
+</resources>
